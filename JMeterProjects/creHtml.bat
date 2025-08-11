@@ -1,0 +1,1 @@
+jmeter.bat -n -t ".\HomeWorkPlan.jmx" -l logs.jtl -e -o results
