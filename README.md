@@ -16,6 +16,7 @@
 - JMeterProjects/HomeWorkPlan.jmx - проект(plan) Jmeter по домашнему заданию . Работает с сайтом https://petstore.swagger.io/#/pet/ из предложенного списка .
 - JMeterProjects/creHtml.bat - bat файл для генерации html отчета 
 - JMeterProjects/results - папка со сгенерированным отчетом html
+- JMeterProjects/summary.csv - итоговый отчет по тестированию в csv файле
 - JMeterProjects/CSV/ForAddPet.csv - текстовый файл csv с данными для теста .
 - Doc/"Раздатка. Нагрузочное тестированиt- JMeter.pdf" - файл с предложенными на выбор открытыми api в интернете .
 
